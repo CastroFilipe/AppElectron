@@ -1,0 +1,22 @@
+{
+  "name": "appelectron",
+  "version": "1.0.0",
+  "description": "Aplicacao simples feita com o framework electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CastroFilipe/AppElectron.git"
+  },
+  "author": "Filipe Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CastroFilipe/AppElectron/issues"
+  },
+  "homepage": "https://github.com/CastroFilipe/AppElectron#readme",
+  "dependencies": {
+    "electron": "^3.0.7"
+  }
+}
