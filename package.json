@@ -4,7 +4,7 @@
   "description": "Aplicacao simples feita com o framework electron",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
