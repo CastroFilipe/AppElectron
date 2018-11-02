@@ -1,0 +1,20 @@
+<head>
+
+</head>
+<body>
+    <h1>Primeira Aplicação</h1>
+    <form>
+        <div>
+            <input type="file" accept="image/*" />
+        </div>
+        <button type="submit">Mostrar Dimensões</button>
+    </form>
+
+    <script>
+        document.querySelector('form').addEventListener('submit', (evento)=>{
+            evento.preventDefault();
+            const file = document.querySelector('input').files[0];
+            
+        });
+    </script>
+</body>
